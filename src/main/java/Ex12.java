@@ -24,7 +24,7 @@ public class Ex12 {
         System.out.printf("Saldo atual: R$ %.2f%n", saldoAtual);
 
         if (saldoAtual >= 0) {
-            System.out.printf("Saldo Positivo!");
+            System.out.println("Saldo Positivo!");
         } else {
             System.out.println("Saldo Negativo!");
         }
