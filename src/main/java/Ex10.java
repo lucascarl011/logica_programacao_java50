@@ -18,9 +18,9 @@ public class Ex10 {
 
 
         if (v1 > v2) {
-            System.out.println("PRIMEIRO VALOR É O MAIORr!");
+            System.out.println("O VALOR MAIOR É: " + v1);
         } else {
-            System.out.println("SEGUNDO VALOR É O MAIOR!");
+            System.out.println("O VALOR MAIOR É: " + v2);
         }
 
         sc.close();
