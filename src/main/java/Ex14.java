@@ -23,7 +23,7 @@ public class Ex14 {
         } else if (v3 < v2) {
             System.out.println("O maior valor é o segundo: " + v2);
         } else {
-            System.out.println("O maior valor é o segundo: " + v3);
+            System.out.println("O maior valor é o terceiro: " + v3);
         }
         sc.close();
     }
